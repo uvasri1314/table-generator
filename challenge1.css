@@ -1,0 +1,29 @@
+body{
+    background-image: url("creative-light-bulb-symbols.png");
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.table {
+    border-collapse: collapse;
+    position: centre;
+    height: 50px;
+    width:500px;
+    top: 250px;
+    left: 500px;
+  }
+  
+  .table, th, td {
+    border: 1px solid rgb(183, 49, 49);
+    padding: 5px;
+    left: 500px;
+  }
+  
+  .th {
+    background-color: #f2f2f2;
+  }
+  
+  #dataForm {
+    left:500px;
+  }
+  
